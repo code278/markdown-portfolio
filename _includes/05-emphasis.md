@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Float like a **BUTTERFLY**<br/>
+Sting like a _BEE_<br/>
+<br/>
+**Aint _NOBODY_ prettier than me**
